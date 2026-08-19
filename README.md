@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - Unsure at this moment.
 - 📫 How to reach me ...
-- cameronghale@outlook.com
+- cameronghale@proton.me
 
 <!---
 CameronGHale/CameronGHale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
